@@ -14,7 +14,6 @@ endpoint = "https://jsonplaceholder.typicode.com/posts"
 
 pip install -r path\requirements.txt
 
-
 config.json - Contains "endpoint" and "log file name" in json format
 data.txt - Contains information from which json body should be parsed
 requirements.txt - Contains the list of installed Python packages
