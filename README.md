@@ -21,13 +21,19 @@ data.txt - Contains information from which json body should be parsed
 requirements.txt - Contains the list of installed Python packages
 
 project_data.py - Contains necessary data
+
 read_json_file.py - Reads content from "config.json" 
+
 log_config.py - Sets up logging
+
 json_body_parser.py - Reads info from "data.txt" and parses pure json body
+
 json_validation_schema - Displays required json schema
+
 post_method.py - Sends a json request using the POST method
                - Validates that json response matches json validation schema
                - Verifies that sent and received info are the same
+               
 project_runner.py- contains all the necessary calls for running the project
 
 
