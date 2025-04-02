@@ -30,11 +30,12 @@ json_body_parser.py - Reads info from "data.txt" and parses pure json body
 
 json_validation_schema - Displays required json schema
 
-post_method.py - Sends a json request using the POST method
+post_method.py 
+                - Sends a json request using the POST method
 
-               - Validates that json response matches json validation schema
+                - Validates that json response matches json validation schema
                
-               - Verifies that sent and received info are the same
+                - Verifies that sent and received info are the same
                
 project_runner.py- contains all the necessary calls for running the project
 
